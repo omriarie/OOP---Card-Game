@@ -47,7 +47,7 @@ Ensure you have Python installed on your system. This project was developed usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/omriarie/OOP---Card-Game
+   git clone https://github.com/omriarie/OOP---Card-Game.git
    ```
 
 2. **Navigate to the project directory**

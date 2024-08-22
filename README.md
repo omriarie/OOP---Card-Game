@@ -71,4 +71,4 @@ To run the tests and ensure that everything is functioning correctly, use the fo
 For any inquiries or issues, please open an issue on the GitHub repository or contact the maintainers directly:
 
 Omri Arie – omriarie@gmail.com  
-Project Link: https://github.com/omriarie/Trivia-Client-Server
+Project Link: https://github.com/omriarie/OOP---Card-Game

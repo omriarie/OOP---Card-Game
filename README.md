@@ -1,6 +1,6 @@
 # Domino Game System
 
-![Domino Game Logo](Domino Game-logo.png "Logo of the Domino Game")
+![domino Game Logo](domino.png)
 
 This project is a Domino game implemented using Object-Oriented Programming (OOP) principles in Python. The game supports various player strategies and team-based gameplay, with an emphasis on modularity and code reuse. The project also includes a comprehensive suite of unit tests to ensure the correctness and reliability of the game components.
 
